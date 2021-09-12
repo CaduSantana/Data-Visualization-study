@@ -1,4 +1,4 @@
-input = open("D:/docs/estudos/prog/python/Data Visualization/Data-Visualization-study/Estudo matplotlib/Comparing genomes/bacteria.fasta").read() # Just change from bacteria to human
+input = open("bacteria.fasta").read() # Just change from bacteria to human
 output = open("bacteria.html", "w")
 
 count = {}
